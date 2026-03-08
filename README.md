@@ -8,4 +8,4 @@ This is a repository for group 1 of a 2026 Spring Semester MRE 320 class.
  in the files, you can find the wiring diagrams for each sensor as well as the results from testing.
 
 # Layout
- I have put all the sensors in their own branch that contains all the information on that sensor.
+ I have put the PIR sensor's files in their own folder, my other two teammates have wrote their findings in either different repositories or in report format instead.
