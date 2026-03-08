@@ -8,8 +8,8 @@ During this project, we wired up and tested 3 different sensors, a temp and humi
 We thought up different important characteristics of each sensors and ways to test each characteristic.
 We then put those testing plans into action and wrote down our findings, we then took these findings and compared them to charts we found that contained what certain tolerances should be for such sensors.
  
-in the files, you can find the wiring diagrams for the PIR sensor as well as the results from testing.
+in the files, you can find the wiring diagrams for the sensors as well as the results from testing.
  
 
 # Layout
- I have put the PIR sensor's files in their own folder, my other two teammates have wrote their findings in either different repositories or in report format instead.
+ Each sensor has its own file folder, the contents of which have a README file of their own where all discussion of pictures and data for that specific sensor is included.
