@@ -1,0 +1,17 @@
+void setup() { 
+
+  Serial.begin(9600); 
+
+  pinMode(2, INPUT); 
+
+} 
+
+ 
+
+void loop() { 
+
+  Serial.println(digitalRead(2)); 
+
+  delay(500); %delaying by 500ms instead of 1ms so i can clearly see the change in output.       
+
+}
