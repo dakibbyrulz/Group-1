@@ -4,7 +4,7 @@ the ultrasonic sensor works by sending out a 10µs pulse that sends out an 8-cyc
 # Testing Plans and Overall Results
 The first test was Accuracy. for this test i placed a flat, wide object in 3 different spots of varying ranges to see how close they were to the measurement given by my ground truth (ruler).
 
-At the 20cm mark, my readings averaged out to 20.35cm, at 21cm, it was an average of 20.73cm, and at 19cm, it was an average of 18.93cm, as seen in the USACCURACY picture in this folder.
+At the 20cm mark, my readings averaged out to 20.35cm, at 21cm, it was an average of 20.73cm, and at 19cm, it was an average of 18.93cm, as seen in the US_ACCURACY_Data picture in this folder.
 Comparing these innaccuracies to the specification table, as seen in the USSPECIFICATIONS picture in this folder, we see that at 21cm and 19cm, it is within the tolerance limit, but at 20cm, it is .5mm away from the +-3mm.
 
 The second test was Range. for this test i measured out multiple spots on the floor from 410cm to 1cm. finding that from 200cm and up, the sensor was freaking out, giving an almost constant 450cm reading.
